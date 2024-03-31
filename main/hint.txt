@@ -1,0 +1,5 @@
+ADIPISKAR/Main_Reposit/main - главная папка проекта
+ADIPISKAR/Main_Reposit/main/icons - подпапка для изображений и иконок
+
+(Весь основной код помещаем в папку ADIPISKAR/Main_Reposit/main)
+
